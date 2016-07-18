@@ -15,7 +15,7 @@ BOARD_IDS = [
     "572ccc002ca1efed1b07a5f1", #QA
     "56e880575a938eb86099a1fd", #Security/Docs
     "56e6f2645f78497eaa9e4218", #Storage - Swift/Cinder
-    # "52e9461fd04cfcc72a096aeb",   #Suggestion Box
+    # "52e9461fd04cfcc72a096aeb",   #Test board
 ]
 
 
@@ -63,10 +63,10 @@ ACTIVE_COLUMNS = [
     "Waiting on OSIC",
 ]
 
-MEMBER_FILE_NAME = "./trello_members.txt"
-ONE_ROW_PER_CARD_NAME = "./one_row_per_card.csv"
-CARD_FOR_EACH_LABEL_NAME = "./card_for_each_label.csv"
-CARD_FOR_EACH_ASSIGNMENT_NAME = "./card_for_each_assignment.csv"
+MEMBER_FILE_NAME = "../data/trello_members.txt"
+ONE_ROW_PER_CARD_NAME = "../data/one_row_per_card.csv"
+CARD_FOR_EACH_LABEL_NAME = "../data/card_for_each_label.csv"
+CARD_FOR_EACH_ASSIGNMENT_NAME = "../data/card_for_each_assignment.csv"
 
 #================ END HARDCODED STUFF ========================================
 
